@@ -1,2 +1,2 @@
-1.0.3
-https://github.com/69DABLUI69/DABROWSER-Updates/releases/download/1.0.3/DBsetup.exe
+1.2.0
+https://github.com/69DABLUI69/DABROWSER-Updates/releases/download/1.2.0/DBsetup.exe

@@ -1,2 +1,2 @@
-1.2.1
-https://github.com/69DABLUI69/DABROWSER-Updates/releases/download/1.2.1/DAsetup.exe
+1.2.2
+https://github.com/69DABLUI69/DABROWSER-Updates/releases/download/1.2.2/DAsetup.exe
